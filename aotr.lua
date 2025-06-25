@@ -1,4 +1,4 @@
--- AOTR Tekkit-Style GUI - by Trần Quang Vinh
+-- AOTR Tekkit-Style GUI - by Trần Quang Vinh 
 local plr = game.Players.LocalPlayer
 local vim = game:GetService("VirtualInputManager")
 local char = plr.Character or plr.CharacterAdded:Wait()
